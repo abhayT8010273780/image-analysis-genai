@@ -40,5 +40,6 @@ It allows users to upload an image, ask questions about it, and get intelligent 
    genai.configure(api_key="YOUR_API_KEY")
 # Run the App
   streamlit run app.py
+<img width="361" height="798" alt="{B0D643F5-8D51-4649-B270-31882C542038}" src="https://github.com/user-attachments/assets/cad40848-70cb-4739-a8af-c3bb6560048e" />
 
    
